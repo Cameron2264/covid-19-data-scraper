@@ -1,5 +1,7 @@
 
-#Hey its me ja boiiiii
+def CamIsBoss():
+    print ("DDogggg")
+
 import os, atexit, socket
 from flask import Flask, jsonify #pip install flask
 from apscheduler.schedulers.background import BackgroundScheduler
